@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "M00nSmpSeason2.aternos.me",
-    "port": 42269,
-    "version": "",
+    "port": "42269",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
